@@ -13,6 +13,6 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```sh
-cd path-to-hugo-project-root  # there should be config.toml file in the directory
+cd path-to-hugo-project-root  # there should be a config.toml file in the directory
 python3 hugo-outliner.py outline-sample.json
 ```
