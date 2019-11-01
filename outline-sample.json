@@ -1,0 +1,36 @@
+{
+  "Chapters": [
+    {
+      "Title": "Chapter 1",
+      "Name": "chapter_1",
+      "Sections": [
+        {
+          "Title": "Section 1.1 | Hello",
+          "Name": "section_1_1"
+        },
+        {
+          "Title": "Section 1.2 | Bye",
+          "Name": "section_1_2"
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 2",
+      "Name": "chapter_2",
+      "Sections": [
+        {
+          "Title": "Section 2.1 | Two",
+          "Name": "section_2_1"
+        },
+        {
+          "Title": "Section 2.2 | Four",
+          "Name": "section_2_2"
+        },
+        {
+          "Title": "Section 2.3 | Eight",
+          "Name": "section_2_3"
+        }
+      ]
+    }
+  ]
+}
