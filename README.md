@@ -4,6 +4,12 @@ Create an outline from JSON file.
 
 `hugo-outliner` will call `hugo new` command recursively according to the input JSON file.
 
+## Requirements
+
+```sh
+pip3 install -r requirements.txt
+```
+
 ## Usage
 
 ```sh
